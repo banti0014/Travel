@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60904" started-at="2020-08-21T06:18:20Z" finished-at="2020-08-21T06:19:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60904" started-at="2020-08-21T06:18:20Z" finished-at="2020-08-21T06:19:21Z">
+      <class name="com.travel.qa.testcases.IxigoTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.travel.qa.testcases.IxigoTest@3c87521]" name="setUp" is-config="true" duration-ms="4981" started-at="2020-08-21T11:48:15Z" finished-at="2020-08-21T11:48:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLandingPageTitleTest()[pri:1, instance:com.travel.qa.testcases.IxigoTest@3c87521]" name="verifyLandingPageTitleTest" duration-ms="819" started-at="2020-08-21T11:48:20Z" finished-at="2020-08-21T11:48:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLandingPageTitleTest -->
+        <test-method status="PASS" signature="validateIxigoLogo()[pri:2, instance:com.travel.qa.testcases.IxigoTest@3c87521]" name="validateIxigoLogo" duration-ms="282" started-at="2020-08-21T11:48:21Z" finished-at="2020-08-21T11:48:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateIxigoLogo -->
+        <test-method status="PASS" signature="searchWithProperJounryDetails()[pri:3, instance:com.travel.qa.testcases.IxigoTest@3c87521]" name="searchWithProperJounryDetails" duration-ms="32131" started-at="2020-08-21T11:48:21Z" finished-at="2020-08-21T11:48:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithProperJounryDetails -->
+        <test-method status="PASS" signature="validateResultPage()[pri:4, instance:com.travel.qa.testcases.IxigoTest@3c87521]" name="validateResultPage" duration-ms="3698" started-at="2020-08-21T11:48:53Z" finished-at="2020-08-21T11:48:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResultPage -->
+        <test-method status="PASS" signature="validateDifferentFillterOptions()[pri:5, instance:com.travel.qa.testcases.IxigoTest@3c87521]" name="validateDifferentFillterOptions" duration-ms="15853" started-at="2020-08-21T11:48:57Z" finished-at="2020-08-21T11:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDifferentFillterOptions -->
+        <test-method status="PASS" signature="listOfAirlineDetailsWithFareLessThen5000()[pri:6, instance:com.travel.qa.testcases.IxigoTest@3c87521]" name="listOfAirlineDetailsWithFareLessThen5000" duration-ms="8035" started-at="2020-08-21T11:49:13Z" finished-at="2020-08-21T11:49:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listOfAirlineDetailsWithFareLessThen5000 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.travel.qa.testcases.IxigoTest@3c87521]" name="tearDown" is-config="true" duration-ms="1339" started-at="2020-08-21T11:49:21Z" finished-at="2020-08-21T11:49:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.travel.qa.testcases.IxigoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

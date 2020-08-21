@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Ixigo Web Application Test Automation Test Suite]">
+  <listeners>
+    <listener class-name="com.qa.ExtentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test name="Ixigo App Test Cases(failed)">
+    <classes>
+      <class name="com.travel.qa.testcases.IxigoTest">
+        <methods>
+          <include name="verifyHomePageTitleTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.travel.qa.testcases.IxigoTest -->
+    </classes>
+  </test> <!-- Ixigo App Test Cases(failed) -->
+</suite> <!-- Failed suite [Ixigo Web Application Test Automation Test Suite] -->
